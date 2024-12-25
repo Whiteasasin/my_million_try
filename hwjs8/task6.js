@@ -14,5 +14,6 @@ function sortingArr(a, b) {
 }
 
 copiedArray.sort(sortingArr);
+console.log(numbersList);
 console.log(copiedArray);
 
