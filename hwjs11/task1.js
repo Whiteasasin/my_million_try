@@ -7,4 +7,6 @@ function getTwoParham (text , time){
     }, time);
 };
 
-getTwoParham('hi there' , 2000);
+getTwoParham('hi there' , 2000); 
+
+////1111111
