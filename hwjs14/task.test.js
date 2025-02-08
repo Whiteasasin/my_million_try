@@ -38,7 +38,7 @@
 //// task 3
 
 const fetchData = require('./task3');
-const axios = require('axios');
+
 jest.mock('axios');
 
 describe('fetchData', () => {
